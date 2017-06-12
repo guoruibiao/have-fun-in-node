@@ -13,3 +13,16 @@
 - `cli-color`: 一款命令行下的多彩终端助手，支持多种颜色， 多种样式的显示。
 
 ![对于糗事百科的小小爬虫实现](https://github.com/guoruibiao/have-fun-in-node/raw/master/qiubai/nodejs-qiubai.gif)
+
+---
+
+## 命令行翻译小工具
+
+借助百度翻译的接口实现的一款命令行版本的翻译小工具。自动处理中英文的判断，并分类输出不同主题的翻译结果。用到的模块有：
+
+- `superagent`: 一款非常好用的网络请求工具库。
+- `cli-color`: 提供多样的命令行彩色字符函数，可以轻松构造出优美的命令行输出效果。
+- `commander`: 命令行参数解析神器，特别地好用，接口使用起来也很优雅。
+
+![nodejs实现的命令行翻译小工具](https://github.com/guoruibiao/have-fun-in-node/raw/master/translator/translator-in-nodejs.gif)
+---
