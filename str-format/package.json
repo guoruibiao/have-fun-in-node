@@ -1,0 +1,18 @@
+{
+  "name": "str-format",
+  "version": "1.0.0",
+  "description": "zh: 一款类似于Python字符串格式化的操作工具。 en: a simple tool for formatting string like Python.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guoruibiao/have-fun-in-node/str-format"
+  },
+  "keywords": [
+    "string-format"
+  ],
+  "author": "郭璞",
+  "license": "MIT"
+}
